@@ -1,0 +1,1 @@
+export 'event_and_news_screen.dart';
